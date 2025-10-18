@@ -46,6 +46,8 @@ city = 'Auckland';
 console.log(city);
 
 
-
+let x ;
+//but const x is need to be initiallized 
+const y = 10 ; //
 
 
