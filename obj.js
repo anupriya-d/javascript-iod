@@ -39,3 +39,19 @@ console.log(user.age ? 'Age exists': 'no age');
 
 let goal =5;
 
+
+for (let i =0; i<goal ; i++){
+    console.log(`i is now ${i} of ${goal}`);
+}
+
+
+const phone = {
+    model : 'iphone 13',
+    make :'apple',
+    coloer :'black',
+    year : 2023
+}
+
+
+//for in for unknown no of elements in object iteration 
+
