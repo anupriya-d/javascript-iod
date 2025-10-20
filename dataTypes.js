@@ -130,3 +130,10 @@ const camera = {
 }
 
 console.log(camera);
+
+
+console.log(typeof camera);
+
+let pi = Math.PI;
+
+console.log(typeof pi);
