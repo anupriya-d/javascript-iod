@@ -35,3 +35,7 @@ user.age = user.age+1;
 console.log(user.age);
 
 console.log(user.age ? 'Age exists': 'no age');
+
+
+let goal =5;
+
